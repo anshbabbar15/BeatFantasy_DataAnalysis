@@ -52,10 +52,14 @@ Download the CSV files from this repository:
 What were the top 10 user teams in the match and what were their respective ranks?
 ![What were the top 10 user teams in the match and what were their respective ranks?](image.png)
 
+What was the average number of teams created by a user?
 ![What was the average number of teams created by a user?](image-1.png)
 
+What percentage of users created 1 team, 2 teams, 3 teams, ..., up to 20 teams?
 ![What percentage of users created 1 team, 2 teams, 3 teams, ..., up to 20 teams?](image-2.png)
 
+What percentage of teams had captains by positions - GK, DEF, MID, ST?
 ![What percentage of teams had captains by positions - GK, DEF, MID, ST?](image-3.png)
 
+What percentage of teams had vice captains by team - ALK, PSV
 ![What percentage of teams had vice captains by team - ALK, PSV](image-4.png)
