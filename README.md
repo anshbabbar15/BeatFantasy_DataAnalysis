@@ -49,7 +49,7 @@ Download the CSV files from this repository:
    ```
 
 ## Answers
-
+What were the top 10 user teams in the match and what were their respective ranks?
 ![What were the top 10 user teams in the match and what were their respective ranks?](image.png)
 
 ![What was the average number of teams created by a user?](image-1.png)
